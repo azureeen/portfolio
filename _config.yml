@@ -28,8 +28,8 @@ url: "https://azureeen.github.io"
 github:
   username: arthurtrchn # change to your github username
 
-#twitter:
-  #username: twitter_username # change to your twitter username
+discord:
+  username: 634345690171965460 # change to your linkedin username
 
 social:
   # Change to your full name.
@@ -42,7 +42,7 @@ social:
     - https://github.com/arthurtrchn # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/trochon-arthur
+    - https://discord.com/users/634345690171965460
 
 google_site_verification: # fill in to your verification string
 
@@ -73,7 +73,7 @@ theme_mode: light
 img_cdn: "https://azureeen.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "/assets/img/commons/avatar.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
