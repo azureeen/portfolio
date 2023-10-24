@@ -31,5 +31,11 @@
     "rollup-plugin-license": "^3.1.0",
     "stylelint": "^15.10.3",
     "stylelint-config-standard-scss": "^11.0.0"
+  },
+  "dependencies": {
+    "countapi-js": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "js-yaml": "^4.1.0",
+    "loading-attribute-polyfill": "^2.1.1"
   }
 }
