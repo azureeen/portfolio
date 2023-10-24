@@ -6,19 +6,18 @@ categories: [Cryptography]
 tags: [rsa, encryption]
 ---
 
-# Décryptage de l'RSA : Un Voyage dans la Cryptographie Asymétrique
-{: .mt-4 .mb-0 }
-
 Le monde de la cryptographie est vaste et complexe, mais fascinant. Un des joyaux de ce domaine est sans doute l'algorithme de chiffrement RSA. Il a révolutionné la manière dont nous sécurisons nos communications en ligne. Décortiquons ensemble ce mécanisme éprouvé qui reste un pilier de la sécurité sur Internet.
 {: .mt-4}
 
-## Qu'est-ce que l'RSA ?
+## Qu'est-ce que le RSA ?
+
 {: data-toc-skip='' .mt-4 .mb-0 }
 
 RSA, qui tire son nom des initiales de ses inventeurs (Rivest, Shamir et Adleman), est un système de cryptographie asymétrique. Il permet la transmission sécurisée des données sur des réseaux non sécurisés tels qu'Internet. L'algorithme utilise une paire de clés : une clé publique pour chiffrer les données et une clé privée pour les déchiffrer.
 {: .mt-4}
 
-## Comment fonctionne l'RSA ?
+## Comment fonctionne le RSA ?
+
 {: data-toc-skip='' .mt-4 .mb-0 }
 
 L'essence de RSA réside dans les propriétés mathématiques des nombres premiers et de l'arithmétique modulaire. Voici une simplification des étapes de l'algorithme RSA :
@@ -35,12 +34,14 @@ L'essence de RSA réside dans les propriétés mathématiques des nombres premie
 - **Chiffrement** : Pour chiffrer un message \( m \), on calcule \( c = m^e \mod n \).
 - **Déchiffrement** : Pour déchiffrer le message chiffré \( c \), on calcule \( m = c^d \mod n \).
 
-## Pourquoi l'RSA est-il sécurisé ?
+## Pourquoi le RSA est-il sécurisé ?
+
 {: data-toc-skip='' .mt-4 .mb-0 }
 
 La sécurité de RSA repose sur la difficulté de la factorisation des grands nombres composites. Sans les valeurs de \( p \) et \( q \), il est extrêmement difficile de calculer \( d \) à partir de \( e \) et \( n \), même avec des ordinateurs puissants.
 
 ## Applications de l'RSA
+
 {: data-toc-skip='' .mt-4 .mb-0 }
 
 RSA trouve son application dans de nombreux domaines de la sécurité informatique, y compris :
@@ -50,6 +51,7 @@ RSA trouve son application dans de nombreux domaines de la sécurité informatiq
 - **VPN** : Sécuriser les connexions réseau privées sur Internet.
 
 ## Conclusion
+
 {: data-toc-skip='' .mt-4 .mb-0 }
 
 L'algorithme RSA a résisté à l'épreuve du temps et reste une référence en matière de cryptographie asymétrique. Son ingéniosité mathématique et son application pratique en font un élément essentiel de la sécurité sur Internet dans un monde de plus en plus connecté.
