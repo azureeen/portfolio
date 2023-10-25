@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://azureeen.github.io"
 
 github:
-  username: arthurtrchn # change to your github username
+  username: azureeen # change to your github username
 
 discordapp:
   username: 634345690171965460 # change to your linkedin username
@@ -35,11 +35,11 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Azureeen
-  email: trochon.arthur@protonmail.com # change to your email address
+  email: azureeen@pm.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # https://twitter.com/username # change to your twitter homepage
-    - https://github.com/arthurtrchn # change to your github homepage
+    - https://github.com/azureeen # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://discord.com/users/634345690171965460
@@ -86,11 +86,11 @@ comments:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: arthurtrchn/azureeen.github.io
+    repo: azureeen/azureeen-blog
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: arthurtrchn/azureeen.github.io
+    repo: azureeen/azureeen-blog
     repo_id:
     category:
     category_id:
