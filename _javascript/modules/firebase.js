@@ -1,2 +1,2 @@
 export { initializeFirebase } from './firebase/config'
-export { countVisitors } from './firebase/visits';
+export { incrementNbVisitors } from './firebase/visits';
