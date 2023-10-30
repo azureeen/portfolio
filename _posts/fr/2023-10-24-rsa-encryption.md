@@ -4,6 +4,7 @@ title: RSA Encryption
 date: 2023-10-24 21:05 +0200
 categories: [Cryptography]
 tags: [rsa, encryption]
+languages: ["fr","en"]
 ---
 
 Le monde de la cryptographie est vaste et complexe, mais fascinant. Un des joyaux de ce domaine est sans doute l'algorithme de chiffrement RSA. Il a révolutionné la manière dont nous sécurisons nos communications en ligne. Décortiquons ensemble ce mécanisme éprouvé qui reste un pilier de la sécurité sur Internet.
@@ -34,6 +35,39 @@ L'essence de RSA réside dans les propriétés mathématiques des nombres premie
 - **Chiffrement** : Pour chiffrer un message \( m \), on calcule \( c = m^e \mod n \).
 - **Déchiffrement** : Pour déchiffrer le message chiffré \( c \), on calcule \( m = c^d \mod n \).
 
+[//]: # (<button id="triggerButton">Open Encryption Dialog</button>)
+
+[//]: # ()
+[//]: # (<div id="encryptionDialog" style="display:none; border: 1px solid lightgray; padding: 20px; width: 300px; position: absolute; top: 50%; left: 50%; transform: translate&#40;-50%, -50%&#41;; background-color: white;">)
+
+[//]: # (  <label>)
+
+[//]: # (    Message:)
+
+[//]: # (    <input type="text" id="messageInput">)
+
+[//]: # (  </label>)
+
+[//]: # (  <br>)
+
+[//]: # (  <label>)
+
+[//]: # (    Password/Key:)
+
+[//]: # (    <input type="password" id="passwordInput">)
+
+[//]: # (  </label>)
+
+[//]: # (  <br>)
+
+[//]: # (  <button id="encryptButton">Encrypt</button>)
+
+[//]: # (  <button id="decryptButton">Decrypt</button>)
+
+[//]: # (  <p id="resultDisplay"></p>)
+
+[//]: # (</div>)
+
 ## Pourquoi le RSA est-il sécurisé ?
 
 {: data-toc-skip='' .mt-4 .mb-0 }
@@ -53,6 +87,8 @@ RSA trouve son application dans de nombreux domaines de la sécurité informatiq
 ## Conclusion
 
 {: data-toc-skip='' .mt-4 .mb-0 }
+
+
 
 L'algorithme RSA a résisté à l'épreuve du temps et reste une référence en matière de cryptographie asymétrique. Son ingéniosité mathématique et son application pratique en font un élément essentiel de la sécurité sur Internet dans un monde de plus en plus connecté.
 {: .mt-4}
