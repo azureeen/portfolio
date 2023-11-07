@@ -6,6 +6,7 @@ import {
   initClipboard,
   toc
 } from './modules/plugins';
+import { incrementBeforeDisplay } from "./modules/firebase/visits";
 
 initSidebar();
 initTopbar();
@@ -15,3 +16,5 @@ initLocaleDatetime();
 initClipboard();
 toc();
 basic();
+incrementBeforeDisplay();
+
