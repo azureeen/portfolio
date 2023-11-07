@@ -14,7 +14,7 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Azureeen # the main title
+title: Arthur Trochon # the main title
 
 tagline: Chroniques d'un voyageur digital  # it will display as the sub-title
 
@@ -29,13 +29,13 @@ github:
   username: azureeen # change to your github username
 
 discordapp:
-  username: 634345690171965460 # change to your linkedin username
+  username: 634345690171965460 # change to your discord username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Azureeen
-  email: azureeen@pm.me # change to your email address
+  name: Arthur Trochon
+  email: trochon.arthur@protonmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # https://twitter.com/username # change to your twitter homepage
@@ -74,7 +74,7 @@ theme_mode:
 img_cdn: "https://azureeen.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/commons/avatar.jpg"
+avatar: "/assets/img/commons/avatar.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
