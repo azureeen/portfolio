@@ -6,7 +6,7 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.html
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: fr
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Europe/Paris
@@ -16,7 +16,8 @@ timezone: Europe/Paris
 
 title: Arthur Trochon # the main title
 
-tagline: ESAIP Student  # it will display as the sub-title
+tagline: Futur Ingénieur en Cybersécurité & Passionné d'Innovation Technologique
+# it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Blog and content about cybersecurity and stuff
@@ -28,8 +29,10 @@ url: "https://azureeen.github.io"
 github:
   username: azureeen # change to your github username
 
-discordapp:
-  username: 634345690171965460 # change to your discord username
+linkedin:
+  username: trochon-arthur # change to your linkedin username
+
+
 
 social:
   # Change to your full name.
@@ -39,10 +42,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # https://twitter.com/username # change to your twitter homepage
-    - https://github.com/azureeen # change to your github homepage
+    # https://github.com/azureeen # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://discord.com/users/634345690171965460
+    # https://discord.com/users/634345690171965460
 
 google_site_verification: # fill in to your verification string
 
@@ -70,6 +73,7 @@ theme_mode:
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
+
 img_cdn: "https://portfolio-arthur-trochon.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
@@ -79,7 +83,7 @@ avatar: "/assets/img/commons/avatar.png"
 toc: true
 
 comments:
-  active: disqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active:  # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: azureeen # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
