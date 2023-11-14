@@ -4,35 +4,42 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Bienvenue dans le monde numérique d'**Azureeen**, une odyssée passionnée à travers les méandres de la cybersécurité. Sans histoire ni passé, Azureeen représente la curiosité insatiable et l'engagement envers un monde numérique plus sûr.
+# Passion et Innovation en Cybersécurité
 
-## Expertise et Exploration
+## À propos de moi
 
-Ma passion se niche dans les domaines complexes de la cryptographie, du pentesting et de la protection des entreprises. En quête permanente de connaissances, je me prépare actuellement à obtenir la certification CEH, avec d'autres certifications en ligne de mire. Chaque jour est une étape de plus vers l'excellence dans ce domaine fascinant.
+Bonjour ! Je suis Arthur, une personne avide de découvertes et d'apprentissages. En tant que sportif passionné, je cherche constamment à me dépasser, que ce soit en explorant de nouveaux sports ou en perfectionnant ceux que je pratique déjà. Cette soif d'aller toujours plus loin se reflète également dans ma vie professionnelle.
 
-## Scores en Cybersécurité
+### Mon Parcours
 
-Je partage avec vous mes premiers jalons sur le chemin de la maîtrise en cybersécurité. Ces scores, bien que modestes, marquent le début d'une aventure prometteuse :
+Je suis spécialisé en **cybersécurité**, un domaine qui me passionne profondément. Mon intérêt pour la cybersécurité s'est développé au fil des mois et des années, et je m'y consacre avec ardeur. J'ai enrichi mes connaissances et compétences dans ce domaine à travers des apprentissages numériques et des challenges tant en ligne qu'en physique, notamment via des CTF (Capture The Flag).
 
+### Ma Philosophie
 
-| Plateforme | Pseudo           |               Rang |
-|:-----------|:-----------------|-------------------:|
-| RootMe     | azureeen         | 67633 (180 points) |
-| TryHackMe  | trochon.arthurpr |  214394 (Niveau 5) |
+Je crois fermement que s'ouvrir au monde et sortir de sa zone de confort sont essentiels, surtout en tant que futur ingénieur. Cette approche me permet d'aborder les défis avec une perspective unique et de trouver des solutions innovantes dans le domaine de la cybersécurité.
 
-Ils représentent non seulement mon engagement à apprendre, mais aussi l'évolution constante de mes compétences. Ces chiffres sont appelés à croître, alors revenez souvent pour suivre mon parcours.
+### Compétences et Réalisations
 
-## Philosophie et Contributions
+- Expertise en **cybersécurité**.
+- Participation active à des **CTF** et autres challenges.
+- Apprentissage continu à travers des plateformes comme TryHackMe et RootMe, où je maintiens des scores compétitifs.
+- Passion pour le partage de connaissances et la collaboration en équipe.
 
-Mon attrait pour la cybersécurité s'ancre dans le désir de contribuer à un espace numérique plus sûr. Mes objectifs sont clairs :
+| Plateforme | Pseudo   |                 Rang |
+|:-----------|:---------|---------------------:|
+| RootMe     | azureeen |   67633 (180 points) |
+| TryHackMe  | azureeen | 100073 (4614 points) |
 
-- **Apprentissage par l'écriture** : Transformer les leçons apprises en articles enrichissants.
-- **Vitrine de compétences** : Démontrer une gamme étendue de sujets et de compétences en cybersécurité.
-- **Partage de savoir** : Offrir une plateforme où d'autres peuvent apprendre et grandir.
+## Mes Intérêts
 
-Dans le futur, j'aspire à aborder des problématiques de cybersécurité plus complexes, en les rendant compréhensibles pour tous.
+Outre la cybersécurité, je suis passionné par :
+- **Sports** : Toujours en quête de nouvelles expériences sportives.
+- **Technologie** : Explorer les dernières innovations et tendances.
+- **Voyages** : Découvrir de nouvelles cultures et perspectives.
 
-## Contenu du Blog
+## Contactez-moi
 
-Ce blog est une mosaïque de writeups de CTF, d'analyses, de tutoriels et d'articles scientifiques, conçu pour un public jeune et assoiffé de connaissance. Mon ambition est de faire de ce blog une bibliothèque de savoir, témoignant des connaissances et compétences acquises avec le temps.
+N'hésitez pas à me contacter pour en savoir plus ou pour discuter de potentiels projets ou collaborations. Ensemble, explorons les possibilités infinies dans le monde de la cybersécurité et au-delà.
+
+[Insérer un lien vers le CV ou page de contact]
 
