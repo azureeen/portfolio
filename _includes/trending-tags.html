@@ -33,6 +33,17 @@
   {% endfor %}
 {% endfor %}
 
+<section>
+  <h2 class="panel-heading">{{- site.data.locales[lang].panel.resume -}}</h2>
+  <div>
+    <ul>
+      <li>
+        <a target="_blank" class="link-primary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" href="https://portfolio-arthur-trochon.netlify.app/assets/docs/cv.pdf">Curriculum Vitae</a>
+      </li>
+    </ul>
+  </div>
+</section>
+
 {% if trending_tags.size > 0 %}
   <section>
     <h2 class="panel-heading">{{- site.data.locales[include.lang].panel.trending_tags -}}</h2>
@@ -41,12 +52,6 @@
         {% assign url = tag_name | slugify | url_encode | prepend: '/tags/' | append: '/' %}
         <a class="post-tag btn btn-outline-primary" href="{{ url | relative_url }}">{{ tag_name }}</a>
       {% endfor %}
-    </div>
-  </section>
-
-  <section>
-    <div>
-      <a target="_blank" class="link-primary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" href="https://portfolio-arthur-trochon.netlify.app/assets/docs/cv.pdf">Curriculum Vitae</a>
     </div>
   </section>
 
