@@ -13,13 +13,15 @@
 # - type: discordapp
 #  icon: "fab fa-discord"
 
+- type: tryhackme
+  icon: "fa-solid fa-user-secret"
+  url: "https://tryhackme.com/p/Azureeen"
+
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: cv
-  icon: "fa-solid fa-file"
-  url: "https://portfolio-arthur-trochon.netlify.app/assets/docs/cv.pdf"
+
 
 #- type: rss
 #  icon: "fas fa-rss"
