@@ -4,9 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Passion et Innovation en Cybersécurité
-
-## À propos de moi
+## Passion et Innovation en Cybersécurité
 
 Bonjour ! Je suis Arthur, une personne avide de découvertes et d'apprentissages. En tant que sportif passionné, je cherche constamment à me dépasser, que ce soit en explorant de nouveaux sports ou en perfectionnant ceux que je pratique déjà. Cette soif d'aller toujours plus loin se reflète également dans ma vie professionnelle.
 
