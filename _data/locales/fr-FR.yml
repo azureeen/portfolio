@@ -14,7 +14,7 @@ tabs:
   categories: Catégories
   tags: Tags
   archives: Archives
-  about: A propos de
+  about: A propos
 
 # the text displayed in the search bar & search results
 search:
@@ -26,6 +26,7 @@ panel:
   lastmod: Récemment mis à jour
   trending_tags: Tags tendance
   toc: Contenu
+  resume: En résumé
 
 copyright:
   # Shown at the bottom of the post
