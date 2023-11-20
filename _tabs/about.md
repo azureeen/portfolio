@@ -41,4 +41,4 @@ Outre la cybersécurité, je suis passionné par :
 
 N'hésitez pas à me contacter pour en savoir plus ou pour discuter de potentiels projets ou collaborations. Ensemble, explorons les possibilités infinies dans le monde de la cybersécurité et au-delà.
 
-[**Curriculum Vitae**](https://portfolio-arthur-trochon/assets/docs/cv.pdf)
+[**Curriculum Vitae**](https://portfolio-arthur-trochon.netlify.app/assets/docs/cv.pdf)
