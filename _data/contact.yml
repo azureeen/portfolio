@@ -17,9 +17,14 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: cv
+  icon: "fa-solid fa-file"
+  url: "https://portfolio-arthur-trochon/assets/docs/cv.pdf"
+
+#- type: rss
+#  icon: "fas fa-rss"
+#  noblank: true
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon

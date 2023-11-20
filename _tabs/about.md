@@ -28,7 +28,7 @@ Je crois fermement que s'ouvrir au monde et sortir de sa zone de confort sont es
 | Plateforme | Pseudo   |                 Rang |
 |:-----------|:---------|---------------------:|
 | RootMe     | azureeen |   67633 (180 points) |
-| TryHackMe  | azureeen | 100073 (4614 points) |
+| TryHackMe  | azureeen | 97560 (4758 points) |
 
 ## Mes Intérêts
 
@@ -41,5 +41,4 @@ Outre la cybersécurité, je suis passionné par :
 
 N'hésitez pas à me contacter pour en savoir plus ou pour discuter de potentiels projets ou collaborations. Ensemble, explorons les possibilités infinies dans le monde de la cybersécurité et au-delà.
 
-[Insérer un lien vers le CV ou page de contact]
-
+[**Curriculum Vitae**](https://portfolio-arthur-trochon/assets/docs/cv.pdf)
