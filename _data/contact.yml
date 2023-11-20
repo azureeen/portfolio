@@ -19,7 +19,7 @@
 
 - type: cv
   icon: "fa-solid fa-file"
-  url: "https://portfolio-arthur-trochon/assets/docs/cv.pdf"
+  url: "https://portfolio-arthur-trochon.netlify.app/assets/docs/cv.pdf"
 
 #- type: rss
 #  icon: "fas fa-rss"
