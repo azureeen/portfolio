@@ -21,10 +21,10 @@ Je crois fermement que s'ouvrir au monde et sortir de sa zone de confort sont es
 - Apprentissage continu à travers des plateformes comme TryHackMe et RootMe, où je maintiens des scores compétitifs.
 - Passion pour le partage de connaissances et la collaboration en équipe.
 
-| Plateforme | Pseudo   |                 Rang |
-|:-----------|:---------|---------------------:|
-| RootMe     | azureeen |   67633 (180 points) |
-| TryHackMe  | azureeen | 97560 (4758 points) |
+| Platform   | Username | Rank             | Other                                 | 
+|:-----------|:---------|:-----------------|:--------------------------------------|
+| RootMe     | azureeen | 67633 (180 pts)  |                                       |
+| TryHackMe  | azureeen | 68346 (6628 pts) | Hacking Streak 33 jours le 05/12/2023 |
 
 ## Mes Intérêts
 
